@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "angular9-fundamentals-workshop"
+  "defaultProject": "angular9-fundamentals-workshop",
+  "cli": {
+    "analytics": "04ae057d-b1f5-47d7-a171-aa163a5465c5"
+  }
 }

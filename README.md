@@ -33,3 +33,12 @@ npm run server:all
 ```
 
 [Workshop Slides](/Angular_9_Fundamentals.pdf)
+
+
+
+
+```
+ng g c courses/course-list --module=app.module.ts -d
+```
+
+

@@ -39,6 +39,11 @@ npm run server:all
 
 ```
 ng g c courses/course-list --module=app.module.ts -d
+
+ng g m login --routing -d
+
+# generate a login module with routing to it
+
 ```
 
 
